@@ -10,7 +10,7 @@ to users based on their historical references, similarities to other users and p
 - **🍿 Rank Based Recommendation System**: Recommendation model based on the historically popular products and the best rated products.
 - **🔍 Collaborative Filtering Recommendation System**: Discover user preferences through similarities in their behavior and based on item-item similarities.  
 - **➗ SVD - Personalized Recommendation System**: Match users with products based on individual attributes and preferences.
-- **🛠️ Hyperparameters Tuning - GridSearchCV**: Hyperparametrization to ensure the best parameters for the model
+- **🛠️ Hyperparameters Tuning - GridSearchCV**: Hyperparametrization to ensure the best parameters for the model.
 - **💠 Actionable insights and Recommendations**: Present a list of insihgts to summarize the findings and the limitations of the models.
 
 ## ⚙️ Technologies Used
